@@ -1,2 +1,5 @@
 # carbon-clone-test
-A clone financial app
+A financial app clone
+
+## Deployed at:
+https://carbon-clone-test.netlify.app/
